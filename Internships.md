@@ -21,3 +21,15 @@
 * Not proficcient at C++ and Blueprint.
 * Little experience working with unreal engine.
 * Due to being an International Student, I might not legally be able to apply.
+
+## [Narrative Design at Respawn Entretainment](https://www.linkedin.com/jobs/view/4312218838/?trackingId=QE%2B8uMGNZ%2FQ%2B5GhZae5aOg%3D%3D&refId=MoYTFB1s7BvARsO%2FeoxLMg%3D%3D&eBP=CwEAAAGaJ4geokPXhYh8nH3OA1661NhmcO8sFchevaWfFvsJeemYgfQjjke1BUf7wsPRAowJYvIHy-sn1XeMX8JhOeORtsjERyUyrNSqEAdXp6xKTb6AklTBkqm6OqukdT6yrO5nOYlzZfZwKMKf-l5RCrKIgrOuZd_X2NyhyKkQTUWxLuECcSHR8rRW208nqdRwBgL9yQ0d_cSxikCWfODyMZl5Z80qbe4mEmYqJTCYOwyVdelToMKNIBWpZSxKc-DCoCVrNY_KnZqa25DQZFnpDFe4ZAzmUKJruEjiKbdsltoGKWXhSDgzhdbXK1-xgMsrCx_09fKHC0MzR4ryU-7d3J9zexiyNuT8nddd5jw2Bnn5bi0Lbqyasc4vVpMtrShi7GMchyPJc3TnC2UhKi9GtJv00RSX04yi_uK3mYrHKTEmTVA5o0mCkhA-87925KfNbLyi82e5fvgsTtEKJo-9-qz1FfsDOtoP0x0g7bBuWjM9fTW27S_3rMBKsp8rXFpH4ewqhJiw8rY&trk=flagship3_search_srp_jobs&skipRedirect=true)
+### Why is this a good fit for me?
+* I love narratives in games and want to learn how to better convey stories through that medium.
+* I like solving logic-based problems.
+* I have experience with text-base scripting and programming languages.
+* I have worked on many interactive media projects.
+
+### What should I work on to meet the requirement?
+* Familiarize myself with the Unreal Engine 5 Pipeline.
+* Work more on my design skills.
+* Due to being an International Student, I might not legally be able to apply.
