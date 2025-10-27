@@ -10,7 +10,8 @@
 * Sometimes I have issues with cramming a lot of work before the deadline.
 * Due to being an International Student, I might not legally be able to apply.
 
-__Resume: [DanielRaya_ResumeEpicGames.docx](https://github.com/user-attachments/files/23174214/DanielRaya_ResumeEpicGames.docx)__
+__Resume: [DanielRaya_ResumeEpicGames.pdf](https://github.com/user-attachments/files/23174267/DanielRaya_ResumeEpicGames.pdf)__
+
 
 
 ## [Epic Games Gameplay Systems Intern](https://www.epicgames.com/site/en-US/careers/jobs/5688207004)
@@ -39,7 +40,8 @@ __Resume: [DanielRaya_ResumeEpicGameplaySystems.docx](https://github.com/user-at
 * Work more on my design skills.
 * Due to being an International Student, I might not legally be able to apply.
 
-__Resume: [DanielRaya_ResumeNarrativeDesign.docx](https://github.com/user-attachments/files/23174241/DanielRaya_ResumeNarrativeDesign.docx)__
+__Resume: [DanielRaya_ResumeNarrativeDesign.pdf](https://github.com/user-attachments/files/23174281/DanielRaya_ResumeNarrativeDesign.pdf)__
+
 
 
 ## [Programmer Intern at FN1 Game Foundation at Epic Games](https://www.epicgames.com/site/en-US/careers/jobs/5664170004)
@@ -53,6 +55,8 @@ __Resume: [DanielRaya_ResumeNarrativeDesign.docx](https://github.com/user-attach
 * Get more familiar with Unreal Engine.
 * Due to being an International Student, I might not legally be able to apply.
 
+__Resume: [DanielRaya_General Resume.docx](https://github.com/user-attachments/files/23174247/DanielRaya_Resume.docx)__
+
 ## [Tech Designer Intern at Epic Games](https://www.linkedin.com/jobs/search/?currentJobId=4314579678&f_E=1&geoId=103644278&keywords=Programaci%C3%B3n%20de%20videojuegos&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true&spellCorrectionEnabled=true&start=25)
 ### Why is this a good fit for me?
 * I am open to learn new things really fast.
@@ -64,4 +68,4 @@ __Resume: [DanielRaya_ResumeNarrativeDesign.docx](https://github.com/user-attach
 * Get more familiar with Unreal Engine.
 * Due to being an International Student, I might not legally be able to apply.
 
-__Resume: [DanielRaya_ResumeEpicGames.docx](https://github.com/user-attachments/files/23174214/DanielRaya_ResumeEpicGames.docx)__
+__Resume: [DanielRaya_ResumeEpicGames.pdf](https://github.com/user-attachments/files/23174267/DanielRaya_ResumeEpicGames.pdf)__
