@@ -33,3 +33,9 @@
 * Familiarize myself with the Unreal Engine 5 Pipeline.
 * Work more on my design skills.
 * Due to being an International Student, I might not legally be able to apply.
+
+## [Programmer Intern at FN1 Game Foundation at Epic Games](https://www.epicgames.com/site/en-US/careers/jobs/5664170004)
+### Why is this a good fit for me?
+* I am fluent in English.
+* I have decent experienced in Source Control software.
+* I am familiar with Fortnite Game Mechanics.
