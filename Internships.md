@@ -9,3 +9,15 @@
 * My social skills are terrible, I am not 100% comfortable with being a work environment.
 * Sometimes I have issues with cramming a lot of work before the deadline.
 * Due to being an International Student, I might not legally be able to apply.
+
+## [Epic Games Gameplay Systems Intern](https://www.epicgames.com/site/en-US/careers/jobs/5688207004)
+### Why is this a good fit for me?
+* I am very interested in everything that is part of designing a game and creating a great player experience.
+* I am self-motivated and always looking for solutions to problems.
+* My mind is analytical with great problem solving skills.
+
+### What should I work on to meet the requirement?
+* I have a problem communicating with people.
+* Not proficcient at C++ and Blueprint.
+* Little experience working with unreal engine.
+* Due to being an International Student, I might not legally be able to apply.
