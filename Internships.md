@@ -26,7 +26,8 @@ __Resume: [DanielRaya_ResumeEpicGames.pdf](https://github.com/user-attachments/f
 * Little experience working with unreal engine.
 * Due to being an International Student, I might not legally be able to apply.
 
-__Resume: [DanielRaya_ResumeEpicGameplaySystems.docx](https://github.com/user-attachments/files/23174233/DanielRaya_ResumeEpicGameplaySystems.docx)__
+__Resume: [DanielRaya_ResumeEpicGameplaySystems.pdf](https://github.com/user-attachments/files/23174286/DanielRaya_ResumeEpicGameplaySystems.pdf)__
+
 
 ## [Narrative Design at Respawn Entretainment](https://www.linkedin.com/jobs/view/4312218838/?trackingId=QE%2B8uMGNZ%2FQ%2B5GhZae5aOg%3D%3D&refId=MoYTFB1s7BvARsO%2FeoxLMg%3D%3D&eBP=CwEAAAGaJ4geokPXhYh8nH3OA1661NhmcO8sFchevaWfFvsJeemYgfQjjke1BUf7wsPRAowJYvIHy-sn1XeMX8JhOeORtsjERyUyrNSqEAdXp6xKTb6AklTBkqm6OqukdT6yrO5nOYlzZfZwKMKf-l5RCrKIgrOuZd_X2NyhyKkQTUWxLuECcSHR8rRW208nqdRwBgL9yQ0d_cSxikCWfODyMZl5Z80qbe4mEmYqJTCYOwyVdelToMKNIBWpZSxKc-DCoCVrNY_KnZqa25DQZFnpDFe4ZAzmUKJruEjiKbdsltoGKWXhSDgzhdbXK1-xgMsrCx_09fKHC0MzR4ryU-7d3J9zexiyNuT8nddd5jw2Bnn5bi0Lbqyasc4vVpMtrShi7GMchyPJc3TnC2UhKi9GtJv00RSX04yi_uK3mYrHKTEmTVA5o0mCkhA-87925KfNbLyi82e5fvgsTtEKJo-9-qz1FfsDOtoP0x0g7bBuWjM9fTW27S_3rMBKsp8rXFpH4ewqhJiw8rY&trk=flagship3_search_srp_jobs&skipRedirect=true)
 ### Why is this a good fit for me?
@@ -55,7 +56,7 @@ __Resume: [DanielRaya_ResumeNarrativeDesign.pdf](https://github.com/user-attachm
 * Get more familiar with Unreal Engine.
 * Due to being an International Student, I might not legally be able to apply.
 
-__Resume: [DanielRaya_General Resume.docx](https://github.com/user-attachments/files/23174247/DanielRaya_Resume.docx)__
+__Resume: [DanielRaya_GeneralResume.pdf](https://github.com/user-attachments/files/23174292/DanielRaya_GeneralResume.pdf)__
 
 ## [Tech Designer Intern at Epic Games](https://www.linkedin.com/jobs/search/?currentJobId=4314579678&f_E=1&geoId=103644278&keywords=Programaci%C3%B3n%20de%20videojuegos&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true&spellCorrectionEnabled=true&start=25)
 ### Why is this a good fit for me?
