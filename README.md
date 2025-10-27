@@ -16,7 +16,7 @@
 * Gameplay Programming
 * UI Programming
 
-## Preffered Studio Type
+## Prefered Studio Type
 * Indie Studio
 
 ## Programming Specialization
