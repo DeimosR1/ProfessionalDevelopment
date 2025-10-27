@@ -39,3 +39,19 @@
 * I am fluent in English.
 * I have decent experienced in Source Control software.
 * I am familiar with Fortnite Game Mechanics.
+
+### What should I work on to meet the requirement?
+* Better knowledge of C++, algorithmics and data structures.
+* Get more familiar with Unreal Engine.
+* Due to being an International Student, I might not legally be able to apply.
+
+## [Tech Designer Intern at Epic Games](https://www.linkedin.com/jobs/search/?currentJobId=4314579678&f_E=1&geoId=103644278&keywords=Programaci%C3%B3n%20de%20videojuegos&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true&spellCorrectionEnabled=true&start=25)
+### Why is this a good fit for me?
+* I am open to learn new things really fast.
+* I am relatively friendly and easy-going.
+* I have decent coding skills.
+
+### What should I work on to meet the requirement?
+* Not very good communication skills.
+* Get more familiar with Unreal Engine.
+* Due to being an International Student, I might not legally be able to apply.
