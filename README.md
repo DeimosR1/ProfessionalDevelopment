@@ -1,18 +1,19 @@
 # Professional Development
 
-## Game Engine Experience
+## Personal Assesment
+__ Game Engine Experience
 * Unity Engine
 * Godot
 * Renpy
 * RPG Maker
 
-## Known Programming Languages
+__ Known Programming Languages
 * C#
 * C++
 * Python
 * GD Script
 
-## Types of Game Programming I'm proficcient at
+__ Types of Game Programming I'm proficcient at
 * Gameplay Programming
 * UI Programming
 
